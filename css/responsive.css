@@ -1,0 +1,9 @@
+@media screen and (max-width: 768px) {
+    #me {
+        float: none;
+    }
+
+    #band img {
+        max-width: 100%;
+    }
+}
